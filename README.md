@@ -1,2 +1,2 @@
 # bridge_configurator
-AI driven vibe coded a iot bridge network config checker
+I used gemini and vibe coded a iot bridge network config checker
